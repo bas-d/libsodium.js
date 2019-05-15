@@ -26,6 +26,7 @@ core4.html
 core5.html
 core6.html
 core_ed25519.html
+core_ristretto255.html
 ed25519_convert.html
 generichash.html
 generichash2.html
@@ -52,6 +53,7 @@ scalarmult6.html
 scalarmult7.html
 scalarmult8.html
 scalarmult_ed25519.html
+scalarmult_ristretto255.html
 secretbox.html
 secretbox2.html
 secretbox7.html
